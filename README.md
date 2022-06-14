@@ -1,2 +1,2 @@
-https://tanyalzvsk.github.io/rsschool-cv/cv
-https://tanyalzvsk.github.io/rsschool-cv/
+1. https://tanyalzvsk.github.io/rsschool-cv/cv
+2. https://tanyalzvsk.github.io/rsschool-cv/
