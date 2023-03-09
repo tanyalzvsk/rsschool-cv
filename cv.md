@@ -1,12 +1,15 @@
 # __Tatsiana Lazovskaya__
+
 ## Contact information
     * Phone: +375336318782
     * E-mail: ttnlzvsk@gmail.com
     * Telegram: peachoops
     * GitHub: [tanyalzvsk](https://github.com/tanyalzvsk)
     * Discord: tanyalzvsk
+    
 ## About Me
-I am a second-year student of BSU. I got interested in programming not so early, but later it turned into some special experience for me. In addition, I'm kinda active person who is constantly trying to improve skills and learn something new.  However, I'm newbie in JS development but full of motivation and aims. I am trying to do my best in each task which I face with. What's about my pesonal qualities? I'm quite responsible, pesistent and communicative.
+I am a third-year student of BSU. I'm an active person who is constantly trying to improve skills and learn something new.  However, I'm newbie in JS development but full of motivation and aims. I am trying to do my best in each task which I face with. What's about my pesonal qualities? I'm quite responsible, pesistent and communicative.
+
 ## Skills
 1. JS Basics
 2. Python
@@ -36,10 +39,12 @@ for (let i = 0; i < nums.length; ++i){
 return highest + ' ' + lowest;
 }
 ```
+
 ## Education
     * BSU
         * Faculty of Applied Mathematics and Computer Science
             * Applied Compter Science
+            
 ## Experience 
     * Stepik courses
     * Python project (Jango)
@@ -47,6 +52,7 @@ return highest + ' ' + lowest;
         * C++, C#, Java labs
         * Group project: Unity C# game (3D)
         * Basic tasks using C
+        
 ## Languages 
 1. English - Upper-intermediate 
 - I have been working as a tutor for one year 
